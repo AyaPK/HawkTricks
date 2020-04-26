@@ -1,6 +1,5 @@
 import trickGenerator as trick
-import tweet
+import tweet as twitter
 
 send = trick.generate()
-print(send)
-tweet.writeTweet(send)
+twitter.writeTweet(send)
