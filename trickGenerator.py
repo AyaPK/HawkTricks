@@ -24,10 +24,10 @@ tricks = {
 	],
 
 	"output":[
-		# "#desc1.capitalize# #desc2# #desc3# #trick#",
-		# "#desc3.capitalize# #trick# in to #desc1.a# #desc2# #trick#",
-		# "#desc1.capitalize# #trick# #trick#",
-		# "#desc1.capitalize# #desc2# #desc3# #trick# #suffix#",
+		"#desc1.capitalize# #desc2# #desc3# #trick#",
+		"#desc3.capitalize# #trick# in to #desc1.a# #desc2# #trick#",
+		"#desc1.capitalize# #trick# #trick#",
+		"#desc1.capitalize# #desc2# #desc3# #trick# #suffix#",
 		"#starter.capitalize# off the #ramp# and do #desc1.a# #trick#, "+str(starter())+" on to a nearby #obstacle# to do #desc3.a# #trick#"
 	],
 
