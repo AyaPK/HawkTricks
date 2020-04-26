@@ -37,7 +37,7 @@ tricks = {
 	],
 
 	"trick":[
-		"kickflip","McTwist","revert","shuvit","tre-flip","wyrmride","flamingo","funk flip","christ-air","ollie","boneless","hardflip","bonerflip","timewarp","heelflip"
+		"kickflip","McTwist","revert","shuvit","tre-flip","wyrmride","flamingo","funk flip","christ-air","ollie","boneless","hardflip","bonerflip","timewarp","heelflip","varial flip","laser flip","underflip", "casper", "truckstand"
 	],
 
 	"desc2":[
@@ -45,7 +45,7 @@ tricks = {
 	],
 
 	"desc3":[
-		"pro-bono","double","triple","quadruple","octuple","big dick","extreme","upside-down","multiple","twisted","nollie"
+		"pro-bono","double","triple","quadruple","octuple","big dick","extreme","upside-down","multiple","twisted","delayed"
 	],
 
 	"suffix":[
