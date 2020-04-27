@@ -28,7 +28,8 @@ tricks = {
 		"#desc3.capitalize# #trick# in to #desc1.a# #desc2# #trick#",
 		"#desc1.capitalize# #trick# #trick#",
 		"#desc1.capitalize# #desc2# #desc3# #trick# #suffix#",
-		"#starter.capitalize# off the #ramp# and do #desc1.a# #trick#, "+str(starter())+" on to #distance.a# #obstacle# to do #desc3.a# #trick#"
+		"#starter.capitalize# off the #ramp# and do #desc1.a# #trick#, "+str(starter())+" on to #distance.a# #obstacle# to do #desc3.a# #trick#",
+		"#desc2# #trick# from the #distance# #obstacle#"
 	],
 
 
@@ -49,7 +50,7 @@ tricks = {
 	],
 
 	"suffix":[
-		"with a li'l sauce","deluxe supreme","with fries","trainwreck","with a SWEEET landing"
+		"with a li'l sauce","deluxe supreme","with fries","trainwreck","with a SWEEET landing", "with a nasty bail"
 	],
 
 	"ramp":[
