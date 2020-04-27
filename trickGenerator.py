@@ -28,17 +28,24 @@ tricks = {
 		"#desc3.capitalize# #trick# in to #desc1.a# #desc2# #trick#",
 		"#desc1.capitalize# #trick# #trick#",
 		"#desc1.capitalize# #desc2# #desc3# #trick# #suffix#",
+		"#desc1.capitalize# #desc2# #desc3# #trick#",
+		"#desc3.capitalize# #trick# in to #desc1.a# #desc2# #trick#",
+		"#desc1.capitalize# #trick# #trick#",
+		"#desc1.capitalize# #desc2# #desc3# #trick# #suffix#",
 		"#starter.capitalize# off the #ramp# and do #desc1.a# #trick#, "+str(starter())+" on to #distance.a# #obstacle# to do #desc3.a# #trick#",
-		"#desc2# #trick# from the #distance# #obstacle#"
+		"#desc2# #trick# from the #distance# #obstacle#",
+		"#desc3# #desc2# #trick",
+		"#desc2# #trick# from the #distance# #obstacle#",
+		"#desc3# #desc2# #trick"
 	],
 
 
 	"desc1":[
-		"gnarly","radical","tubular","fabulous","sweet","sick","dope","eXtreme","fakie","reverse","cRaZy","ridiculous","badass","nollie"
+		"gnarly","radical","tubular","fabulous","sweet","sick","dope","eXtreme","fakie","reverse","cRaZy","ridiculous","badass","nollie", "boneless"
 	],
 
 	"trick":[
-		"kickflip","McTwist","revert","shuvit","tre-flip","wyrmride","flamingo","funk flip","christ-air","ollie","boneless","hardflip","bonerflip","timewarp","heelflip","varial flip","laser flip","underflip", "casper", "truckstand"
+		"kickflip","McTwist","revert","shuvit","tre flip","wyrmride","flamingo","funk flip","christ air","ollie","boneless","hardflip","bonerflip","timewarp","heelflip","varial flip","laser flip","underflip", "casper", "truckstand"
 	],
 
 	"desc2":[
